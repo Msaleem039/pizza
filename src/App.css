@@ -1,0 +1,8 @@
+.img{
+  transition: .3s ease-out;
+}
+
+.img:hover{
+  transform: translatey(-15px);
+  border: 2px slid red;
+}
